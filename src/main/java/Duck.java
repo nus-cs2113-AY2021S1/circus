@@ -1,7 +1,7 @@
 public class Duck extends Bird {
     @Override
     public String speak() {
-        return "Quack Quack";
+        return "Quack Quack Quack";
     }
 
     @Override
