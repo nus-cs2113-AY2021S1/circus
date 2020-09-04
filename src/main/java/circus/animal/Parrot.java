@@ -13,7 +13,12 @@ public class Parrot extends Bird {
 
     @Override
     public int getValue() {
+<<<<<<< HEAD:src/main/java/circus/animal/Parrot.java
         return 10;
     }
 
+=======
+        return 20;
+    }
+>>>>>>> origin/improved:src/main/java/Parrot.java
 }
