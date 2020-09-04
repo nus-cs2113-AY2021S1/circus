@@ -1,3 +1,7 @@
+package circus.stuff;
+
+import circus.animal.Equipment;
+
 public class Ladder extends Equipment {
 
     public Ladder(int purchasePrice) {
